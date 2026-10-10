@@ -10,7 +10,7 @@ Zentraler Einstieg zu den interaktiven HTML-Seiten in den Jubitwo-Repositories. 
 | Stromkreislabor | [index.html](https://github.com/Jubitwo/Stromkreislabor/blob/main/index.html) | [Öffnen](https://jubitwo.github.io/Stromkreislabor/) | Schaltkreis-Simulation; zusätzlich [circuit-builder.js](https://github.com/Jubitwo/Stromkreislabor/blob/main/circuit-builder.js) |
 | InnovativAG | [index.html](https://github.com/Jubitwo/InnovativAG/blob/main/index.html) | [Öffnen](https://jubitwo.github.io/InnovativAG/) | Innovativ-AG-Projekt; Medien liegen in [images/](https://github.com/Jubitwo/InnovativAG/tree/main/images) |
 | Mathe-Lernwerkstatt | [index.html](https://github.com/Jubitwo/Mathe_Br-che_Gleichungen_Terme/blob/main/index.html) | [Öffnen](https://jubitwo.github.io/Mathe_Br-che_Gleichungen_Terme/) | Lernwerkstatt „fit für Klasse 8“ |
-| Transformatoren | [index.html](https://github.com/Jubitwo/Transformatoren/blob/main/index.html) | Nicht verfügbar (GitHub Pages liefert 404) | [arbeitsblaetter-transformator.html](https://github.com/Jubitwo/Transformatoren/blob/main/arbeitsblaetter-transformator.html) wird referenziert, ist aber im Repository nicht vorhanden. |
+| Transformatoren | [index.html](https://github.com/Jubitwo/Transformatoren/blob/main/index.html) | Nicht verfügbar (GitHub Pages liefert 404) | arbeitsblaetter-transformator.html wird referenziert, ist aber im Repository nicht vorhanden. |
 
 ## Schnellzugriff auf Projekt-Readmes
 
